@@ -23,7 +23,6 @@ const Contact = () => {
      </div>
 
      <div className="middle">
-        
      </div>
 
     </>
