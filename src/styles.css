@@ -153,10 +153,10 @@ nav {
 }
 
 .self-photo {
-    height: 30vw;
+    height: 60vw;
     width: auto;
-    border-radius: 20px;
-    border: solid, 6px, rgb(255, 191, 106);
+    border-radius: 1.5vw;
+    border: solid, 0.5vw, rgb(255, 191, 106);
     margin-left: 2vw;
 }
 
@@ -167,7 +167,7 @@ nav {
 .intro-text {
     display: flex;
     flex-direction: column;
-    margin-left: 6vw;
+    margin-left: 3vw;
     margin-right: 1vw;
 }
 
