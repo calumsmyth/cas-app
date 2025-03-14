@@ -17,7 +17,7 @@ body{
     align-items: center;
     font-size: 24px;
     color: rgb(255, 191, 106);
-    min-height:160px;
+    min-height:12vw;
     border-radius: 5px;
 }
 
@@ -45,7 +45,7 @@ body{
 nav {
     display: flex;
     justify-content: center;
-    padding: 12px;
+    padding: 1.2vw;
     background-color: rgb(255, 191, 106);
     border-radius: 5px;
 }
@@ -94,9 +94,9 @@ nav {
     background-color: white;
     justify-content: center;
     align-items: center;
-    font-size: 24px;
+    font-size: 1.8vw;
     color: white;
-    min-height:100px;
+    min-height:8vw;
     border-radius: 5px;
     background-color: rgb(5, 177, 177);
 }
@@ -193,7 +193,7 @@ nav {
     align-items: center;
     padding-top: 15px;
     padding-bottom: 52px;
-    min-height: 80px;
+    min-height: 23vw;
 }
 
 .tech-stack-title {
