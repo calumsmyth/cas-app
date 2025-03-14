@@ -146,10 +146,10 @@ nav {
     justify-content: space-between;
     align-items: center;
     background-color: white;
-    padding: 40px;
-    padding-left:100px;
-    padding-right: 100px;
-    min-height: 200px;
+    padding: 3vw;
+    padding-left: 4vw;
+    padding-right: 4vw;
+    min-height: 20vw;
 }
 
 .self-photo {
