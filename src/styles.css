@@ -17,7 +17,7 @@ body{
     align-items: center;
     font-size: 24px;
     color: rgb(255, 191, 106);
-    min-height:12vw;
+    min-height:6vw;
     border-radius: 5px;
 }
 
@@ -45,7 +45,7 @@ body{
 nav {
     display: flex;
     justify-content: center;
-    padding: 1.2vw;
+    padding: 0.8vw;
     background-color: rgb(255, 191, 106);
     border-radius: 5px;
 }
@@ -94,16 +94,17 @@ nav {
     background-color: white;
     justify-content: center;
     align-items: center;
-    font-size: 1.8vw;
+    font-size: 1.2vw;
     color: white;
-    min-height:8vw;
+    min-height:2vw;
     border-radius: 5px;
     background-color: rgb(5, 177, 177);
 }
 
 .hero-title h2{
     color: white;
-    padding-bottom: 0px;;
+    padding-bottom: 0vw;
+    padding-top: 0vw;
     text-shadow: 
     -1px -1px 0 #000,   
      1px -1px 0 #000,  
@@ -168,8 +169,10 @@ nav {
 .intro-text {
     display: flex;
     flex-direction: column;
+    justify-content: center;
     margin-left: 3vw;
     margin-right: 1vw;
+    min-height: 20vw;
 }
 
 .intro-text h2{
