@@ -153,12 +153,13 @@ nav {
 }
 
 .self-photo {
-    height: 80vw;
+    height: 40vw;
     width: auto;
     border-radius: 1.5vw;
-    border: solid, 0.5vw, rgb(255, 191, 106);
+    border: solid, 0.32vw, rgb(255, 191, 106);
     margin-left: 2vw;
 }
+
 
 .self-photo:hover {
     transform: Scale(1.1);
@@ -178,7 +179,7 @@ nav {
 }
 
 .intro-paragraph {
-    font-size: 18px;
+    font-size: 1.3vw;
     text-align: center;
 }
 
